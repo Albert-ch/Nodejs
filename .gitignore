@@ -1,9 +1,4 @@
 .DS_Store
 node_modules/
 .idea/
-
-# Editor directories and files
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
+.gitignore
